@@ -1,0 +1,16 @@
+{
+  "name": "proyectp2",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "electron ./src/app.js"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "devDependencies": {
+    "electron": "^24.1.2",
+    "electron-reload": "^2.0.0-alpha.1"
+  }
+}
